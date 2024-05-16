@@ -1,0 +1,39 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2024-05-14T06:25:38.278331",
+    "startedAt": "2024-05-14T06:25:37.143240",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "G:\\Gauranshi\\Programming\\Flock\\FLock-model-example\\Credit-Card-Fraud-Detection\\FlockCreditCardModel.py",
+    "codePathLocal": "FlockCreditCardModel.py",
+    "codePath": "FlockCreditCardModel.py",
+    "host": "LAPTOP-C7H1JCBN",
+    "username": "gaura",
+    "executable": "C:\\Users\\gaura\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2419.0,
+        "min": 0.0,
+        "max": 2419.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.0,
+            "min": 0.0,
+            "max": 2419.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 145.66995239257812,
+            "used": 82.63132095336914
+        }
+    },
+    "memory": {
+        "total": 15.771476745605469
+    }
+}
